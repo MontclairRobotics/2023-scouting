@@ -12,26 +12,26 @@
     "checkUpdates": "ncu -u"
   },
   "dependencies": {
-    "@types/lodash": "^4.14.184",
-    "@vueuse/core": "^9.1.1",
-    "pinia": "^2.0.20",
-    "vue": "^3.2.37",
-    "vue-router": "^4.1.4"
+    "@types/lodash": "^4.14.188",
+    "@vueuse/core": "^9.4.0",
+    "pinia": "^2.0.23",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.35.1",
-    "@typescript-eslint/parser": "^5.35.1",
-    "@vitejs/plugin-vue": "^3.0.3",
-    "@vue/eslint-config-typescript": "^11.0.0",
-    "autoprefixer": "^10.4.8",
-    "eslint": "^8.22.0",
-    "eslint-plugin-vue": "^9.4.0",
-    "npm-check-updates": "^16.0.5",
-    "postcss": "^8.4.16",
-    "postcss-nested": "^5.0.6",
-    "typescript": "~4.7.4",
-    "vite": "^3.0.9",
-    "vite-plugin-pwa": "^0.12.3"
+    "@typescript-eslint/eslint-plugin": "^5.42.1",
+    "@typescript-eslint/parser": "^5.42.1",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "@vue/eslint-config-typescript": "^11.0.2",
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.27.0",
+    "eslint-plugin-vue": "^9.7.0",
+    "npm-check-updates": "^16.3.16",
+    "postcss": "^8.4.18",
+    "postcss-nested": "^6.0.0",
+    "typescript": "~4.8.4",
+    "vite": "^3.2.3",
+    "vite-plugin-pwa": "^0.13.3"
   },
   "eslintConfig": {
     "root": true,
