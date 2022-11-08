@@ -1,3 +1,2 @@
-matches
-pits
-match-scouting
+Pit-Scouting
+Match-Scouting
