@@ -1,2 +1,2 @@
-Pit-Scouting
-Match-Scouting
+pits
+matches
